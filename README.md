@@ -1,5 +1,6 @@
 # OfferMania
 Lite Weight Flutter + Spring boot application to get imaginary offers on shopping products. 
+![Offer](https://user-images.githubusercontent.com/13198518/167249050-b7d4a65e-1c7c-491f-b5cf-ce794d530456.jpg)
 
 ##Current Tasks##
 
