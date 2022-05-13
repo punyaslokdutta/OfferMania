@@ -3,7 +3,7 @@ Lite Weight Flutter + Spring boot application to get imaginary offers on Fashion
 
 ![Offer](https://user-images.githubusercontent.com/13198518/167249050-b7d4a65e-1c7c-491f-b5cf-ce794d530456.jpg)
 
-##Current Tasks##
+## Current Tasks ##
 
 
 Building domain driven (ENTITY, USECASE (services) , INTERFACE ADAPTER (Controller, Repository, Presenter) ), 
@@ -29,5 +29,7 @@ Basic function in Kotlin
 6. Connect to a database
 7. Parsing a csv/xml to a relevant data structure 
 
+## Architecture ##
 
+![6](https://user-images.githubusercontent.com/13198518/168263294-22e6a7fc-5e98-48df-9bdc-6d598db78678.jpg)
 
