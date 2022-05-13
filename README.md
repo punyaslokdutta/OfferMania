@@ -31,5 +31,6 @@ Basic function in Kotlin
 
 ## Architecture ##
 
-![6](https://user-images.githubusercontent.com/13198518/168263294-22e6a7fc-5e98-48df-9bdc-6d598db78678.jpg)
+
+![Springboot_Architecture](https://user-images.githubusercontent.com/13198518/168264312-b853cc57-44bc-4894-80c5-4442821fa818.png)
 
